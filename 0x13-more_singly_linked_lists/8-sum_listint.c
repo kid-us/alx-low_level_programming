@@ -10,7 +10,7 @@
 
 int sum_listint(listint_t *head)
 {
-	let sum = 0;
+	int sum = 0;
 
 	while (head)
 	{
